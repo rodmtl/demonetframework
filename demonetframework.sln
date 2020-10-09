@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demonetframework", "demonetframework\demonetframework.csproj", "{2A03C1F3-2FD0-4E9C-A9A3-D49C040E985B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A03C1F3-2FD0-4E9C-A9A3-D49C040E985B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A03C1F3-2FD0-4E9C-A9A3-D49C040E985B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A03C1F3-2FD0-4E9C-A9A3-D49C040E985B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A03C1F3-2FD0-4E9C-A9A3-D49C040E985B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CD99E21-16BD-4AE4-A246-1E73AE0DF46C}
+	EndGlobalSection
+EndGlobal
